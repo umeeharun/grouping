@@ -1,0 +1,57 @@
+ul
+		{
+			list-style-type: none;
+			margin-left: auto;
+			margin-right: auto;
+			padding: 200px, 200px;
+			overflow: hidden;
+			background-color:black;
+		}
+
+		li
+		{
+			float: left;
+		}
+
+		li a
+		{
+			display: block;
+			color:bisque;
+			text-align: center;
+			padding: 50px;
+			text-decoration: none;
+			font-family: Century;
+			font-size: 16px;
+			letter-spacing: 2px;
+		}
+
+		li a:hover
+		{
+			background-color:black;
+		}
+		h1
+		{
+			font-family: Candara;
+			letter-spacing: 6px;
+		}
+		h3
+		{
+			font-family: Candara;
+			font-size: 18px;
+			text-align: center;
+			letter-spacing: 1px;
+		}
+		p
+		{
+			font-family: Candara;
+			font-size: 17px;
+			text-align: center;
+			line-height: 1.5;
+			letter-spacing: 2px;
+		}
+		.center
+		{
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+		}
